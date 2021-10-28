@@ -1,8 +1,8 @@
 const configurations = {
-    backendServer : {
-        url: "http://localhost",
-        port : 7878
-    },
+  backendServer: {
+    url: "https://backend-jasaf.herokuapp.com/",
+    port: 7878,
+  },
 };
 
 export default configurations;
